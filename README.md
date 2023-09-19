@@ -1,33 +1,46 @@
-<!-- Título do Projeto -->
-# ![Cyber José Pires](https://raw.githubusercontent.com/seuusuario/seuusuario/main/cyber-jose-pires-banner.png)
+# José Pires
+## Desenvolvedor web front-end
+![José Pires]
 
-## Sobre mim
-Olá! Eu sou o José Pires, um desenvolvedor web front-end apaixonado por criar interfaces incríveis e imersivas inspiradas no estilo Cyberpunk 2077. Minha jornada envolve combinar minhas habilidades técnicas com minha criatividade para dar vida a projetos únicos.
-
-![José Pires](https://raw.githubusercontent.com/seuusuario/seuusuario/main/cyber-jose-pires-avatar.png)
-
-- 💼 Desenvolvedor Web Front-end
-- 🎨 Entusiasta de Design
-- 🚀 Sempre buscando inovação e desafios
+Olá, eu sou José Pires, um desenvolvedor web front-end apaixonado por criar experiências digitais incríveis. Eu tenho mais de 5 anos de experiência em desenvolvimento web, usando as tecnologias mais modernas e populares. Eu também tenho habilidades em design gráfico, edição de vídeo e prototipação de interfaces.
 
 ## Habilidades
-- **HTML5:** 🌐 Estruturando a web com estilo.
-- **CSS3:** 💅 Estilizando páginas da web com o toque Cyberpunk.
-- **JavaScript:** 🚀 Adicionando interatividade e dinamismo às minhas criações.
-- **React.js:** ⚛️ Construindo aplicações web modernas e reativas.
-- **Photoshop:** 📸 Retocando e manipulando imagens para obter aquele visual Cyberpunk autêntico.
-- **Adobe Premiere:** 🎬 Editando vídeos que se encaixam perfeitamente no mundo Cyberpunk.
-- **Figma:** 🎨 Criando e colaborando em designs com uma abordagem futurista.
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Photoshop
+- Adobe Premiere
+- Figma
 
-## Projetos em Destaque
-- 🌟 [CyberBlog](https://github.com/seuusuario/cyberblog): Um blog pessoal com um design Cyberpunk que apresenta minhas experiências no mundo da tecnologia e desenvolvimento.
-- 🎮 [CyberGamer](https://github.com/seuusuario/cybergamer): Uma plataforma de jogos online com uma interface inspirada em Cyberpunk, onde os jogadores podem competir em um mundo virtual distópico.
-- 🎨 [CyberDesign](https://github.com/seuusuario/cyberdesign): Um repositório que contém várias obras de arte digitais criadas no Photoshop e no Figma, todas com uma estética Cyberpunk única.
+## Projetos
+Aqui estão alguns dos meus projetos que eu criei ou participei:
 
-## Entre em Contato
-- 📧 Email: jose.pires@email.com
-- 💼 LinkedIn: [José Pires](https://www.linkedin.com/in/jose-pires)
-- 🐦 Twitter: [@josepires_dev](https://twitter.com/josepires_dev)
+### Cyberpunk 2077 Website
+Um site oficial para o jogo Cyberpunk 2077, usando HTML, CSS e JavaScript. O site apresenta um design futurista e interativo, com animações, efeitos sonoros e vídeos. O site é responsivo e otimizado para diferentes dispositivos e navegadores.
 
-## Vamos Colaborar!
-Se você é um entusiasta de Cyberpunk 2077 e quer colaborar em projetos futuristas ou discutir ideias criativas, sinta-se à vontade para entrar em contato comigo. Vamos criar um futuro digital incrível juntos! 🌆🌟
+![Cyberpunk 2077 Website]
+
+[Clique aqui] para ver o site ao vivo.
+
+### React Movie App
+Um aplicativo web para buscar e visualizar informações sobre filmes, usando React.js e a API do The Movie Database. O aplicativo permite pesquisar filmes por título, gênero ou popularidade, e ver detalhes como sinopse, elenco, avaliação e trailer. O aplicativo também tem um modo escuro e um modo claro para mudar o tema.
+
+![React Movie App]
+
+[Clique aqui] para ver o aplicativo ao vivo.
+
+### Figma UI Kit
+Um kit de interface de usuário para Figma, com mais de 100 componentes e 10 telas prontas para usar. O kit é inspirado no estilo Cyberpunk 2077, com cores neon, gradientes e tipografia. O kit é ideal para criar protótipos de sites ou aplicativos com um visual futurista.
+
+![Figma UI Kit]
+
+[Clique aqui] para baixar o kit.
+
+## Contato
+Se você quiser entrar em contato comigo, você pode me enviar um e-mail para josepires@gmail.com ou me seguir nas redes sociais:
+
+[![Twitter]]
+[![Instagram]]
+[![LinkedIn]]
+[![GitHub]]
